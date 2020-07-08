@@ -1,2 +1,2 @@
 # car-selling-price prediction
-link - http://127.0.0.1:5000/
+link - http://127.0.0.1:5000/predict
